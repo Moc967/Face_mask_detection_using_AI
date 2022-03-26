@@ -1,6 +1,12 @@
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp; ![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 # IA para Detecção de Máscaras Faciais
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp; 
+![DataScience](https://img.shields.io/badge/-Data_Science-3498DB?style=for-the-badge&logo=teste&labelColor=1f004e)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow-e87200?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-d82c20?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-0b31a5?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 
 <p> Esta aplicação foi utilizada como parte do projeto de TCC, curso de Engenharia da Computação, Univesp, 2021, desenvolvido em conjunto com Carlos Aldiran, Robert Maia e orientado pelo Prof Lucas Exposto Soares.</p> 
 
